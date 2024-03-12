@@ -1,14 +1,19 @@
 *{
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
-body {
+/* body {
+    height: 100vh;
+    width: 100vw;
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-}
-img{
+} */
+/* img{
      max-width: 479px;
-}
+} */
 .second {
+    /* padding: 2rem; */
     text-align: center;
     font-size: 60px;
     -webkit-text-stroke-width: 2px;
