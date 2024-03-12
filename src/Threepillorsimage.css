@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+    margin:0%;
+    padding:0%;
+}
+.image{
+    position: relative;
+    margin:0%;
+    padding:0%;
+}
+img{
+    position:absolute;
+    margin:0%;
+    padding:0%;
+}
+.first{
+    text-align: center;
+    font-size: xx-large;
+}
+@media screen and (max-width:768px) {
+    .first{
+        margin-left: 50%;
+    }
+    
+}
+@media screen and (max-width:425px) {
+    .first{
+        margin-left: 50%;
+    }
+    
+}
